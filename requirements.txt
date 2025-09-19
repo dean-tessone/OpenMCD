@@ -1,0 +1,17 @@
+# core
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+pillow
+tifffile
+scipy
+h5py
+lxml
+imageio
+
+# UI
+PyQt5>=5.15
+
+# IMC I/O
+readimc>=0.9.0
+
